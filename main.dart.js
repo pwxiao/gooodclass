@@ -88193,7 +88193,7 @@ r=!0
 r=r?B.ls:k
 return new A.zT(new A.agb(new A.ajO(p),s,!0,!0,!0,k),k,B.aw,!1,k,k,r,!1,k,s,B.ai,B.yk,k,B.R,k)}else if(r){A.dW("nnd")
 A.dW(s)
-return A.eJ(A.fJ(A.a([B.YR,A.a53(B.YU,new A.ajP(q),k)],t.p),B.aO,B.cz,B.aP),k,k)}else{s=A.aA6(new A.ajQ(),B.B3,120,"https://whoisluckydog.pwxiao.top/1.gif",new A.ajR(),120)
+return A.eJ(A.fJ(A.a([B.YR,A.a53(B.YU,new A.ajP(q),k)],t.p),B.aO,B.cz,B.aP),k,k)}else{s=A.aA6(new A.ajQ(),B.B3,120,"https://whoisluckydog.pwxiao.top/noclass.gif",new A.ajR(),120)
 r=A.e6(k,16,k)
 q=A.bl("\u4eca\u5929\u6ca1\u8bfe",k,k,k,A.eH(k,k,k,k,k,k,k,k,k,k,k,24,k,k,B.bb,k,k,!0,k,k,k,k,k,k,k,k),k,k)
 p=A.e6(k,16,k)
