@@ -1,0 +1,24 @@
+name: Upload files to OSS
+
+on:
+  push:
+    branches:
+      - main  # 可以根据您的需求更改触发条件
+
+jobs:
+  upload_to_oss:
+    name: Upload to OSS
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      
+    - name: Upload files to OSS
+      uses: fangbinwei/aliyun-oss-website-action@v1.4.0
+      with:
+        accessKeyId: ${{ secrets.ACCESS_KEY_ID }}
+        accessKeySecret: ${{ secrets.ACCESS_KEY_SECRET }}
+        bucket: gooodclass
+        endpoint: oss-cn-hangzhou.aliyuncs.com
+        folder: ./
