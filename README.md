@@ -32,11 +32,11 @@
 ## 截图预览 📱
 <table>
   <tr>
-    <td><center><img src="https://pwxiao-blog.oss-cn-hangzhou.aliyuncs.com/typora_picScreenshot_20240828_225541.jpg" style="max-width: 150px; height: 300px;"></center></td>
-    <td><center><img src="https://pwxiao-blog.oss-cn-hangzhou.aliyuncs.com/typora_picScreenshot_20240828_225351.jpg" style="max-width: 150px; height: 300px;"></center></td>
-    <td><center><img src="https://pwxiao-blog.oss-cn-hangzhou.aliyuncs.com/typora_picScreenshot_20240828_225314.jpg" style="max-width: 150px; height: 300px;"></center></td>
-    <td><center><img src="https://pwxiao-blog.oss-cn-hangzhou.aliyuncs.com/typora_picScreenshot_20240828_225312.jpg" style="max-width: 150px; height: 300px;"></center></td>
-    <td><center><img src="https://pwxiao-blog.oss-cn-hangzhou.aliyuncs.com/typora_picScreenshot_20240828_225358.jpg" style="max-width: 150px; height: 300px;"></center></td>
+    <td><center><img src="https://pwxiao-blog.oss-cn-hangzhou.aliyuncs.com/typora_picScreenshot_20240828_225541.jpg" style="max-width: 200px; height: 350px;"></center></td>
+    <td><center><img src="https://pwxiao-blog.oss-cn-hangzhou.aliyuncs.com/typora_picScreenshot_20240828_225351.jpg" style="max-width: 200px; height: 350px;"></center></td>
+    <td><center><img src="https://pwxiao-blog.oss-cn-hangzhou.aliyuncs.com/typora_picScreenshot_20240828_225314.jpg" style="max-width: 200px; height: 350px;"></center></td>
+    <td><center><img src="https://pwxiao-blog.oss-cn-hangzhou.aliyuncs.com/typora_picScreenshot_20240828_225312.jpg" style="max-width: 200px; height: 350px;"></center></td>
+    <td><center><img src="https://pwxiao-blog.oss-cn-hangzhou.aliyuncs.com/typora_picScreenshot_20240828_225358.jpg" style="max-width: 200px; height: 350px;"></center></td>
   </tr>
 </table>
 
