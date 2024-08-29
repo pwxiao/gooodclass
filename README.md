@@ -1,8 +1,9 @@
-# 
+
 
 <p align="center">
   <img width="180" src="https://cdn-app-icon2.pgyer.com/b/3/d/2/d/b3d2dac2b482b110ade2150e76c72124?x-oss-process=image/resize,m_lfit,h_120,w_120/format,jpg" alt="ChatGPT">
   <p align="center">好好好课程表（GooodClass）</p>
+  <p align="center">安理课表</p>
 </p>
 
 
